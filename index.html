@@ -4,72 +4,68 @@ layout: default
 <!-- Featured -->
 <div id="featured">
 	<div class="container">
-		<header>
+		<!--<header>
 			<h2>Welcome to Linear</h2>
-		</header>
-		<p>This is <strong>Linear</strong>, a responsive HTML5 site template freebie by <a href="http://templated.co">TEMPLATED</a>. Released for free under the <a href="http://templated.co/license">Creative Commons Attribution</a> license, so use it for whatever (personal or commercial) &ndash; just give us credit! Check out more of our stuff at <a href="http://templated.co">our site</a> or follow us on <a href="http://twitter.com/templatedco">Twitter</a>.</p>
-		<hr />
-		<div class="row">
-			<section class="4u">
-				<span class="pennant"><span class="fa fa-briefcase"></span></span>
-				<h3>Maecenas luctus lectus</h3>
-				<p>Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo.</p>
-				<a href="#" class="button button-style1">Read More</a>
-			</section>
-			<section class="4u">
-				<span class="pennant"><span class="fa fa-lock"></span></span>
-				<h3>Maecenas luctus lectus</h3>
-				<p>Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec magna.</p>
-				<a href="#" class="button button-style1">Read More</a>
-			</section>
-			<section class="4u">
-				<span class="pennant"><span class="fa fa-globe"></span></span>
-				<h3>Maecenas luctus lectus</h3>
-				<p>Curabitur sit amet nulla. Nam in massa. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo.</p>
-				<a href="#" class="button button-style1">Read More</a>
-			</section>
-
-		</div>
+		</header>-->
+		<p><strong>Meisser Economics</strong> is an economic research boutique founded by Luzius Meisser, computer scientist and economist. We want to leverage principles of modern software engineering to build bigger, better, and more versatile economic models. While traditional mathematical models tend to be monolithic and suffer from the curse of dimensionality, properly designed algorithmic models scale much better with increasing complexity. Their basic building blocks are stateful, encapsulated agents that interact with each other through open markets. Ideally, the basic equilibria they find match classic results, thereby providing confidence for exploring configurations that are not solvable with traditional methods and advancing the frontiers of economic knowledge.</p>
 	</div>
 </div>
 
 <!-- Main -->
 	<div id="main">
 		<div id="content" class="container">
-
+		{% for post in paginator.posts %}
 			<div class="row">
-				<section class="6u">
-					<a href="#" class="image full"><img src="/assets/images/pic01.jpg" alt=""></a>
+				<section class="8u -2u">
 					<header>
-						<h2>Mauris vulputate dolor</h2>
+						<a href="{{ site.prefix }}{{ post.url }}"><h2>{{ post.title }}</h2></a>
 					</header>
-					<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
-				</section>
-				<section class="6u">
-					<a href="#" class="image full"><img src="/assets/images/pic02.jpg" alt=""></a>
-					<header>
-						<h2>Mauris vulputate dolor</h2>
-					</header>
-					<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
+					{{ post.excerpt }}
+					<a href="{{ site.prefix }}{{ post.url }}">Read more...</a>
 				</section>
 			</div>
-
-			<div class="row">
-				<section class="6u">
-					<a href="#" class="image full"><img src="/assets/images/pic03.jpg" alt=""></a>
-					<header>
-						<h2>Mauris vulputate dolor</h2>
-					</header>
-					<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
-				</section>
-				<section class="6u">
-					<a href="#" class="image full"><img src="/assets/images/pic04.jpg" alt=""></a>
-					<header>
-						<h2>Mauris vulputate dolor</h2>
-					</header>
-					<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum.</p>
-				</section>
-			</div>
+		{% endfor %}
+		
+			<div class="pagination" align="center">
+			{% if paginator.previous_page %}
+				<a href="{{ paginator.previous_page_path }}#main" class="previous">show newer posts </a>
+			{% else %}
+				<!--<span class="previous">Previous</span>-->
+			{% endif %}
+				<!--<span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
+			{% if paginator.next_page %}
+				<a href="{{ paginator.next_page_path }}#main" class="next"> show older posts</a>
+			{% else %}
+				<!--<span class="next ">Next</span>-->
+			{% endif %}
+		</div>
+		
+		</div>
+	</div>
+	
+	<!-- Featured -->
+<div id="featured">
+	<div class="container">
+		<div class="row">
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-pencil-square-o"></span></span>
+				<h3>Academic Collaboration</h3>
+				<p>You are a world-class economist with an excellent academic track record and you have concrete ideas for leveraging agent-based simulations in your area of expertise?</p>
+				<a href="/about" class="button button-style1">Get In Touch</a>
+			</section>
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-globe"></span></span>
+				<h3>Economic Experiments</h3>
+				<p>You want to simulate what the world would look like if we introduced basic income, joined/left the euro-zone, or adopted other political ideas given your assumptions?</p>
+				<a href="/about" class="button button-style1">Get In Touch</a>
+			</section>
+			<section class="4u">
+				<span class="pennant"><span class="fa fa-line-chart"></span></span>
+				<h3>Market Mechanics</h3>
+				<p>You want to simulate the price dynamics resulting from the interaction of a set of financial agents with known behavior?</p>
+				<a href="/about" class="button button-style1">Get In Touch</a>
+			</section>
 
 		</div>
 	</div>
+</div>
