@@ -6,7 +6,9 @@ layout: default
 		<div id="content" class="container">
 			<div class="row">
 				<section class="8u -2u">
-					{% if page.featured %}<img src="/assets/{{ page.featured }}" alt="">{% endif %}
+					{% if page.featured %}<img src="/assets/{{ page.featured }}" alt="" class="image full">{% endif %}
+					<p>{{ page.date | date: '%B %d, %Y' }}</p>
+					
 					<header>
 						<h2>{{ page.title }}</h2>
 					</header>
