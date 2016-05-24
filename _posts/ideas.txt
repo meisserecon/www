@@ -1,0 +1,1 @@
+Only allow patents registrations that have been registered in fewer than 50 other countries before.
