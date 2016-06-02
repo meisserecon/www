@@ -24,7 +24,7 @@
 		font-family: 'Roboto', sans-serif;
 		font-size: 11pt;
 		font-weight: 310;
-		line-height: 2.75em;
+		line-height: 1.75em;
 		color: #666;
 	}
 
@@ -32,7 +32,6 @@
 	{
 		font-weight: 300;
 		color: #666;
-		line-height: 90%;
 	}
 	
 		h2
