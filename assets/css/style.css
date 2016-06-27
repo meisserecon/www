@@ -30,14 +30,15 @@
 
 	h1,h2,h3,h4,h5,h6
 	{
-		font-weight: 300;
+		font-family: 'Michroma', serif;
 		color: #666;
 		line-height: 1em;
+		font-size: 0.9em;
 	}
 	
 		h2
 		{
-			letter-spacing: -0.025em;
+			letter-spacing: -0.0em;
 		}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -801,6 +802,7 @@
 	{
 		position: relative;
 		z-index: 1;
+		font-family: "Eurostar Regular Extended", serif;
 	}
 	
 		#logo h1
@@ -812,11 +814,10 @@
 		{
 			display: block;
 			text-decoration: none;
-			font-weight: 300;
-			line-height: 1em;
-			font-size: 5em;
+			font-weight: 500;
+			line-height: 2em;
+			font-size: 2.5em;
 			color: #FFF;
-			letter-spacing: -0.05em;
 			margin: 0 0 0.125em 0;
 		}
 		
