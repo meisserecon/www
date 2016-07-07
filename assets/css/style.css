@@ -33,13 +33,8 @@
 		font-family: 'Michroma', serif;
 		color: #666;
 		line-height: 1em;
-		font-size: 0.9em;
+		font-size: 1em;
 	}
-	
-		h2
-		{
-			letter-spacing: -0.0em;
-		}
 	
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		{
@@ -776,9 +771,9 @@
 		position: relative;
 		background-image: url(../images/mountains.jpg);
 		background-repead: no-repeat;
-		background-attachment: center;
-		background-size: 1500px 500px;
-		background-position: center;
+		background-attachment: left;
+		background-size: 1500px 800px;
+		background-position: top;
 		background-size: cover;
 		text-align: center;
 	}
@@ -802,11 +797,11 @@
 	{
 		position: relative;
 		z-index: 1;
-		font-family: "Eurostar Regular Extended", serif;
 	}
 	
 		#logo h1
 		{
+			text-align: left;
 			color: #FFF;
 		}
 	
@@ -815,8 +810,8 @@
 			display: block;
 			text-decoration: none;
 			font-weight: 500;
+			font-size: 1.8em;
 			line-height: 2em;
-			font-size: 2.5em;
 			color: #FFF;
 			margin: 0 0 0.125em 0;
 		}
@@ -919,7 +914,7 @@
 	#footer
 	{
 		position: relative;
-		text-align: center;
+		text-align: left;
 	}
 	
 	#footer header h2
@@ -939,7 +934,7 @@
 	#copyright
 	{
 		position: relative;
-		text-align: center;
+		text-align: left;
 		color: #774535;
 	}
 	
@@ -965,7 +960,7 @@
 	{
 		position: relative;
 		background: #f2f2f2;
-		text-align: center;
+		text-align: left;
 	}
 	
 	#featured h3
@@ -992,7 +987,7 @@
 	#tweet
 	{
 		position: relative;
-		text-align: center;
+		text-align: right;
 		background: rgba(64,64,64,0.5);
 	}
 
@@ -1000,9 +995,7 @@
 
 		#tweet blockquote
 		{
-			position: relative;
 			border: none;
-			margin: 0;
 			font-weight: 300;
 			color: rgba(255,255,255,.6);
 			
