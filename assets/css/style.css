@@ -770,10 +770,7 @@
 	{
 		position: relative;
 		background-image: url(../images/mountains.jpg);
-		background-repead: no-repeat;
-		background-attachment: center;
-		background-size: 1500px 500px;
-		background-position: bottom;
+		background-position: center;
 		background-size: cover;
 		text-align: center;
 	}
