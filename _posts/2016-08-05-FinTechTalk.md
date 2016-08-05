@@ -1,6 +1,7 @@
 ---
 layout: post
 title: FinTech made in Switzerland
+description: Manuel Stagars interviews Luzius Meisser about the blockchain for a Swiss FinTech documentary
 ---
 Manual Stagars is creating <a href="http://fintech-documentary.com/" target="_blank">a Swiss FinTech documentary</a> and talked to me about the blockchain and opportunities for Switzerland. (28 minute video)
 
