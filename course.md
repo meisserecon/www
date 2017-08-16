@@ -4,6 +4,8 @@ title: Agent-Based Financial Economics
 permalink: /course/
 ---
 
+This is a master level course for students in economics, banking & finance, and computer science. Agent-based financial economics is a controversial but also promising modeling methodology that thrives best when combining economics knowledge with sound software engineering. The course starts with an introduction to the principles of agent-based modeling, including its strength and weaknesses. Then, step by step, we create a large-scale economic simulation by introducing new and increasingly sophisticated agents (households, firms, funds, etc.), comparing the simulated outcomes with the equilibria known from classic economic theory. These agents are implemented by interdisciplinary teams of two students each, one from economics or finance and one from computer science. The fitness of these economic agents is tested in a competitive setting. Due to the complexity of the simulation, agents will likely have to resort to behavioral heuristics. The interesting question is: will the invisible hand succeed in guiding them towards the efficient outcome anyway?
+
 <b>About</b>
 
 <p><a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2017/003/50773378-50772427/details/SM/50857786">Agent-based financial economics</a> is an interdisciplinary master-level course for economists and computer scientists offered by the department of Banking & Finance of University of Zurich. It is worth 3.0 ECTS credits and counts as BF4, ECON2, or more generally as OEC/WWF course for University of Zurich students, and as elective course for computer scientists from ETH.</p>
