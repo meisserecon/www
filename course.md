@@ -23,3 +23,6 @@ permalink: /course/
 <b>Grading</b>
 
 <p>There is no exam. Grades are based on exercises as well as a short presentation in the end. In the exercises, you are graded as a team, whereas the presentation is graded individually. Computer scientists present the economic aspects of their findings, whereas economists will present the software engineering view.</p>
+
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link" class="button button-style1">Register</a></p>
+
