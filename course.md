@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-permalink: /about/
+title: Agent-Based Financial Economics
+permalink: /course/
 ---
 <p>Meisser Economics AG is a Swiss corporation domiziled in the Canton of Zurich. It was founded in 2016 with the purposes of research, education and consulting at the intersection of economics and computer science. At the moment, Luzius Meisser is its sole employee. You can get in touch by writing to <em>luzius@meissereconomics.com</em>.</p>
 
