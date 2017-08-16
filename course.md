@@ -3,11 +3,12 @@ layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
 ---
-Agent-based financial economics is a controversial but also promising modeling methodology that thrives best when combining economics knowledge with sound software engineering. The course starts with an introduction to the principles of agent-based modeling, including its strength and weaknesses. Then, step by step, we create a large-scale economic simulation by introducing new and increasingly sophisticated agents (households, firms, funds, etc.), comparing the simulated outcomes with the equilibria known from classic economic theory. These agents are implemented by interdisciplinary teams of two students each, one from economics or finance and one from computer science. The fitness of these economic agents is tested in a competitive setting. Due to the complexity of the simulation, agents will likely have to resort to behavioral heuristics. The interesting question is: will the invisible hand succeed in guiding them towards the efficient outcome anyway?
 
-<b>Target Audience</b>
+<b>About</b>
 
 <p><a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2017/003/50773378-50772427/details/SM/50857786">Agent-based financial economics</a> is an interdisciplinary master-level course for economists and computer scientists offered by the department of Banking & Finance of University of Zurich. It is worth 3.0 ECTS credits and counts as BF4, ECON2, or more generally as OEC/WWF course for University of Zurich students, and as elective course for computer scientists from ETH.</p>
+
+<p>Agent-based financial economics is a controversial but also promising modeling methodology that thrives best when combining economics knowledge with sound software engineering. The course starts with an introduction to the principles of agent-based modeling, including its strength and weaknesses. Then, step by step, we create a large-scale economic simulation by introducing new and increasingly sophisticated agents (households, firms, funds, etc.), comparing the simulated outcomes with the equilibria known from classic economic theory. These agents are implemented by interdisciplinary teams of two students each, one from economics or finance and one from computer science. The fitness of these economic agents is tested in a competitive setting. Due to the complexity of the simulation, agents will likely have to resort to behavioral heuristics. The interesting question is: will the invisible hand succeed in guiding them towards the efficient outcome anyway?</p>
 
 <b>Teaser</b>
 
@@ -16,8 +17,6 @@ Agent-based financial economics is a controversial but also promising modeling m
 <b>Registration</b>
 
 <p>If you want to attend this course, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link">register here</a>. Slots are assigned on a first-come-first-serve basis and limited to 30 students. Do not forget to also register in the <a href="https://idagreen.uzh.ch/mb/">UZH module booking system</a> before October 13th, whereas ETH students first need to <a href="http://www.uzh.ch/de/studies/application/mobilitaet/applyhsuma.html">register here</a> before September 15th, choosing "Wirtschaftswissenschaftl. Fakultät" and "MA UZH Wirtschaftswissenschaften".</p>
-
-<b>Teams</b>
 
 <p>Teams of two will be formed during the first lecture on September 22nd.</p>
 
