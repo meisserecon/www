@@ -10,7 +10,7 @@ permalink: /course/
 
 <b>Teaser</b>
 
-<p><img src="/assets/images/tradeview.png" alt="" class="image left"> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents. You can run the simulation on your computer locally, but also view it online to see how your agents interact with the others.</p>
+<p><img src="/assets/images/tradeview.png" alt="" class="image full"> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents. You can run the simulation on your computer locally, but also view it online to see how your agents interact with the others.</p>
 
 <em><b>Registration</b></em>
 
