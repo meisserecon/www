@@ -4,8 +4,7 @@ title: Agent-Based Financial Economics
 permalink: /course/
 ---
 
-About
------
+<h2>About</h2>
 
 <a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2017/003/50773378-50772427/details/SM/50857786">Agent-based financial economics</a> is an interdisciplinary master-level course for economists and computer scientists offered by the department of Banking & Finance of University of Zurich. It is worth 3.0 ECTS credits and counts as BF4, ECON2, or more generally as OEC/WWF course for University of Zurich students, and as elective course for computer scientists from ETH.
 
