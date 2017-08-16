@@ -19,10 +19,10 @@ Registration
 
 If you want to attend this course, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link">register here</a>. Slots are assigned on a first-come-first-serve basis and limited to 30 students. Do not forget to also register in the <a href="https://idagreen.uzh.ch/mb/">UZH module booking system</a> before October 13th, whereas ETH students first need to <a href="http://www.uzh.ch/de/studies/application/mobilitaet/applyhsuma.html">register here</a> before September 15th, choosing "Wirtschaftswissenschaftl. Fakultät" and "MA UZH Wirtschaftswissenschaften". 
 
-## Teams
+# Teams
 
 Teams of two will be formed during the first lecture on September 22nd.
 
-## Grading
+# Grading
 
 There is no exam. Grades are based on exercises as well as a short presentation in the end. In the exercises, you are graded as a team, whereas the presentation is graded individually. Computer scientists present the economic aspects of their findings, whereas economists will present the software engineering view.
