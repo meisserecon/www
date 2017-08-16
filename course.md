@@ -3,8 +3,17 @@ layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
 ---
-<p>Meisser Economics AG is a Swiss corporation domiziled in the Canton of Zurich. It was founded in 2016 with the purposes of research, education and consulting at the intersection of economics and computer science. At the moment, Luzius Meisser is its sole employee. You can get in touch by writing to <em>luzius@meissereconomics.com</em>.</p>
+# About
+<a href="https://studentservices.uzh.ch/uzh/anonym/vvz/index.html#/modules/list/2017/003/50773378-50772427/details/SM/50857786">Agent-based financial economics</a> is an interdisciplinary master-level course for economists and computer scientists offered by the department of Banking & Finance of University of Zurich. It is worth 3.0 ECTS credits and counts as BF4, ECON2, or more generally as OEC/WWF course for University of Zurich students, and as elective course for computer scientists from ETH.
 
-<p><img src="/assets/images/luzius.jpg" alt="" class="image left"> I hold a master's degree in Computer Science from ETH Zurich and a master's degree in Economics from University of Zurich. I have previously founded a cloud storage startup, have been involved in the Swiss startup scene, and am a founding board member of the <a href="http://bitcoinassociation.ch/">Bitcoin Association Switzerland</a>. Furthermore, I am <a href="http://www.phd-finance.uzh.ch/en/People/students/meisser.html">a PhD student</a> at the <a href="http://www.bf.uzh.ch/">Institute for Banking and Finance</a>, University of Zurich.</p>
+# Registration
+If you want to attend this course, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link">register here</a>. Slots are assigned on a first-come-first-serve basis and limited to 30 students. Do not forget to also register in the <a href="https://idagreen.uzh.ch/mb/">UZH module booking system</a> before October 13th, whereas ETH students first need to <a href="http://www.uzh.ch/de/studies/application/mobilitaet/applyhsuma.html">register here</a> before September 15th, choosing "Wirtschaftswissenschaftl. Fakultät" and "MA UZH Wirtschaftswissenschaften". 
 
-<p>Isaac Asimov's <a href="https://en.wikipedia.org/wiki/Foundation_series">Foundation Trilogy</a> inspired me with the vision of building large scale economic simulations early on in my life. This long-term project aims at pursuing this vision. I strongly believe that coming from computer science, there are many low-hanging fruits to be picked in economics -- similar to the progress that has been made by mathematicians and physicists entering the field earlier. In particular, methods and tools from modern software engineering are well-suited to manage the organizational and technical complexity of building large-scale models.</p>
+# Teams
+Teams of two will be formed during the first lecture on September 22nd.
+
+# Grading
+Grades are based on weekly exercises as well as a short presentation. There is no exam. In the exercises, you are graded as a team, whereas the presentation is graded individually. Computer scientists present the economic aspects of their findings, whereas economists will present the software engineering view.
+
+# Teaser
+<p><img src="/assets/images/tradeview.png" alt="" class="image left"> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents. You can run the simulation on your computer locally, but also view the results online to see how your agents interact with the others.
