@@ -21,7 +21,7 @@ permalink: /course/
 
 <b>Registration</b>
 
-<p>If you want to attend this course, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link">fill in this form</a> before September 21st. Slots are assigned on a first-come-first-serve basis and limited to 30 students. Do not forget to also register in the <a href="https://idagreen.uzh.ch/mb/">UZH module booking system</a> before October 13th, whereas ETH students first need to <a href="http://www.uzh.ch/de/studies/application/mobilitaet/applyhsuma.html">register here</a> before September 15th, choosing "Wirtschaftswissenschaftl. Fakultät" and "MA UZH Wirtschaftswissenschaften".</p>
+<p>If you want to attend this course, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link">fill in this form</a> before September 21st. Seats are assigned on a first-come-first-serve basis and limited to 30 students. Do not forget to also register in the <a href="https://idagreen.uzh.ch/mb/">UZH module booking system</a> before October 13th, whereas ETH students first need to <a href="http://www.uzh.ch/de/studies/application/mobilitaet/applyhsuma.html">register here</a> before September 15th, choosing "Wirtschaftswissenschaftl. Fakultät" and "MA UZH Wirtschaftswissenschaften".</p>
 
 <p>Teams of two will be formed during the first lecture on September 22nd.</p>
 
