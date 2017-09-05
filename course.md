@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
