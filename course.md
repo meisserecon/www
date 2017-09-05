@@ -10,9 +10,11 @@ permalink: /course/
 
 <p>Agent-based financial economics is a controversial but also promising modeling methodology that thrives best when combining economics knowledge with sound software engineering. The course starts with an introduction to the principles of agent-based modeling, including its strength and weaknesses. Then, step by step, we create a large-scale economic simulation by introducing new and increasingly sophisticated agents (households, firms, funds, etc.), comparing the simulated outcomes with the equilibria known from classic economic theory. These agents are implemented by interdisciplinary teams of two students each, one from economics or finance and one from computer science. The fitness of these economic agents is tested in a competitive setting. Due to the complexity of the simulation, agents will likely have to resort to behavioral heuristics. The interesting question is: will the invisible hand succeed in guiding them towards the efficient outcome anyway?</p>
 
+<p>As a computer science student, you will get to learn the basic mechanisms of our economy and the financial markets, while applying your software engineering skills. As a economics or finance student, you will get a new, constructive perspective on economics and learn how to structure large-scale simulations in object-oriented programming.</p>
+
 <b>Teaser</b>
 
-<p><img src="/assets/images/tradeview.png" alt="" class="image full"> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents. You can run the simulation on your computer locally, but also view it online to see how your agents interact with the others.</p>
+<p><img src="/assets/images/tradeview.png" alt="" class="image full"> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents to Github. You can run the simulation on your computer locally, but also view it online to see how your agents interact with the others. Find out what heuristics can help your agent achieve the highest utility of all.</p>
 
 <b>Recurring Themes</b>
 
@@ -20,7 +22,11 @@ permalink: /course/
 
 Evolutionary finance: what strategies do survive in the long run and how do evolutionary dynamics impact the macro outcome?
 
-Heuristics: Are there simple heuristics based on local information that allow agents to perform similarly well as agents with rational expectations and perfect information?</p>
+Heuristics: Are there simple heuristics based on local information that allow agents to perform similarly well as agents with rational expectations and perfect information?
+
+Chaos: even simple system can exhibit chaotic behavior.
+
+Complexity: how can software engineering help in managing the complexity?</p>
 
 <b>Literature</b>
 
