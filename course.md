@@ -14,7 +14,7 @@ permalink: /course/
 
 <b>Teaser</b>
 
-<p><a href="http://meissereconomics.com/vis/trades?sim=master&day=1&selection=consumers,firms,meisserecon-RealEstateAgent,meisserecon-Farm,meisserecon-LandSeller,meisserecon-Farmer&step=1"><img src="/assets/images/tradeview.png" alt="" class="image full"></a> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents to Github. You can run the simulation on your computer locally, but also view it online to see how your agents interact with the others. Find out what heuristics can help your agent achieve the highest utility of all.</p>
+<p><a href="http://meissereconomics.com/vis/trades?sim=master&day=1&selection=consumers,firms,meisserecon-RealEstateAgent,meisserecon-Farm,meisserecon-LandSeller,meisserecon-Farmer&step=1"><img src="/assets/images/tradeview.png" alt="" class="image full"></a> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents to Github. You can run the simulation on your computer locally, but also view it online to see how your agents interact with the others. Find out what heuristics can help your agent achieve the highest utility of all. Click on the image to visit a live demo of a small simulation (warning: desktop only, under construction).</p>
 
 <b>Recurring Themes</b>
 
