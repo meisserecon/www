@@ -1,8 +1,9 @@
-﻿---
+---
 layout: post
 title: Setting up your agent laboratory
 permalink: /course/setup
 ---
+
 <p>To take part in this course, you'll need to install a number of programs. They are all free to use.</p>
 
 <p><img src="/course/overview.png" alt="" class="image full">This sketch gives you a general idea of the overall setup. In the following, I describe how to install all the software needed to successfully synchronize your code.</p>
