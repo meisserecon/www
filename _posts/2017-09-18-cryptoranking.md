@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Who is Who in Swiss Crypto
 description: Finews list of people to know in Swiss crypto finance
