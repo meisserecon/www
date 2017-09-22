@@ -1,12 +1,8 @@
-﻿---
+---
 layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
 ---
-
-<b>Lesson 1: The Hermit</b>
-
-<p>Here are the <a href="/assets/abfe-lesson1">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
 
 <b>About</b>
 
@@ -15,6 +11,10 @@ permalink: /course/
 <p>Agent-based financial economics is a controversial but also promising modeling methodology that thrives best when combining economics knowledge with sound software engineering. The course starts with an introduction to the principles of agent-based modeling, including its strength and weaknesses. Then, step by step, we create a large-scale economic simulation by introducing new and increasingly sophisticated agents (households, firms, funds, etc.), comparing the simulated outcomes with the equilibria known from classic economic theory. These agents are implemented by interdisciplinary teams of two students each, one from economics or finance and one from computer science. The fitness of these economic agents is tested in a competitive setting. Due to the complexity of the simulation, agents will likely have to resort to behavioral heuristics. The interesting question is: will the invisible hand succeed in guiding them towards the efficient outcome anyway?</p>
 
 <p>As a computer science student, you will get to learn the basic mechanisms of our economy and the financial markets, while applying your software engineering skills. As a economics or finance student, you will get a new, constructive perspective on economics and learn how to structure large-scale simulations in object-oriented programming.</p>
+
+<b>Lesson 1: The Hermit</b>
+
+<p>Here are the <a href="/assets/abfe-lesson1">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
 
 <b>Teaser</b>
 
