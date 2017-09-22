@@ -44,7 +44,7 @@ Complexity: how can software engineering help in managing the complexity?</p>
 
 <p>If you want to attend this course, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link">fill in this form</a> before September 21st. Seats are assigned on a first-come-first-serve basis and limited to 30 students. Do not forget to also register in the <a href="https://idagreen.uzh.ch/mb/">UZH module booking system</a> before October 13th, whereas ETH students first need to <a href="http://www.uzh.ch/de/studies/application/mobilitaet/applyhsuma.html">register here</a> before September 15th, choosing "Wirtschaftswissenschaftl. Fakultät" and "MA UZH Wirtschaftswissenschaften". For ETH students, credits will automatically be transferred to the ETH booking system once the semester is over.</p>
 
-<p>Teams of two will be formed during the first lecture on September 22nd. The course takes place on Fridays from 14:00 to 16:00 at KOL-F-123, in the main building of University of Zurich. In case you have questions, feel free to get in touch with me by writing to luzius@meissereconomics.com .</p>
+<p>Teams of two will be formed during the first lecture on September 22nd. The course takes place on Fridays from 14:15 to 15:45 at KOL-F-123, in the main building of University of Zurich. In case you have questions, feel free to get in touch with me by writing to luzius@meissereconomics.com .</p>
 
 <p><center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link" class="button button-style1">Register Now</a></center></p>
 
