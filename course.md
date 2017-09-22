@@ -1,8 +1,12 @@
----
+﻿---
 layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
 ---
+
+<b>Lesson 1: The Hermit</b>
+
+<p>Here are the <a href="/assets/abfe-lesson1">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
 
 <b>About</b>
 
