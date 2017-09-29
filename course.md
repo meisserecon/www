@@ -16,9 +16,9 @@ permalink: /course/
 
 <p>Here are the <a href="/assets/abfe-lesson1.pdf">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
 
-<b>Teaser</b>
+<b>Lesson 2: The Farmer</b>
 
-<p><a href="http://meissereconomics.com/vis/trades?sim=demo&day=1&selection=consumers,firms,agentecon-RealEstateAgent,agentecon-Farm,agentecon-LandSeller,agentecon-Farmer&step=1"><img src="/assets/images/tradeview.png" alt="" class="image full"></a> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents to Github. You can run the simulation on your computer locally, but also view it online to see how your agents interact with the others. Find out what heuristics can help your agent achieve the highest utility of all. <a href="http://meissereconomics.com/vis/trades?sim=demo&day=1&selection=consumers,firms,agentecon-RealEstateAgent,agentecon-Farm,agentecon-LandSeller,agentecon-Farmer&step=1">Here is a live demo</a> of a small simulation (warning: desktop only, under construction).</p>
+<p>Here are the <a href="/assets/abfe-lesson2.pdf">slides of the second lesson</a>, as well as <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise02-task.md">exercise 2</a>. This time, we will try to find out whether the agents can do better by teaming up and coordinating their efforts through an open market.</p>
 
 <b>Recurring Themes</b>
 
