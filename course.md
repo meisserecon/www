@@ -12,9 +12,13 @@ permalink: /course/
 
 <p>As a computer science student, you will get to learn the basic mechanisms of our economy and the financial markets, while applying your software engineering skills. As a economics or finance student, you will get a new, constructive perspective on economics and learn how to structure large-scale simulations in object-oriented programming.</p>
 
-<b>Teaser</b>
+<b>Lesson 1: The Hermit</b>
 
-<p><a href="http://meissereconomics.com/vis/trades?sim=demo&day=1&selection=consumers,firms,agentecon-RealEstateAgent,agentecon-Farm,agentecon-LandSeller,agentecon-Farmer&step=1"><img src="/assets/images/tradeview.png" alt="" class="image full"></a> Your agents will compete in an economic simulation that is updated in real-time as your submit new versions of your agents to Github. You can run the simulation on your computer locally, but also view it online to see how your agents interact with the others. Find out what heuristics can help your agent achieve the highest utility of all. <a href="http://meissereconomics.com/vis/trades?sim=demo&day=1&selection=consumers,firms,agentecon-RealEstateAgent,agentecon-Farm,agentecon-LandSeller,agentecon-Farmer&step=1">Here is a live demo</a> of a small simulation (warning: desktop only, under construction).</p>
+<p>Here are the <a href="/assets/abfe-lesson1.pdf">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
+
+<b>Lesson 2: The Farmer</b>
+
+<p>Here are the <a href="/assets/abfe-lesson2.pdf">slides of the second lesson</a>, as well as <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise02-task.md">exercise 2</a>. This time, we will try to find out whether the agents can do better by teaming up and coordinating their efforts through an open market.</p>
 
 <b>Recurring Themes</b>
 
@@ -40,7 +44,7 @@ Complexity: how can software engineering help in managing the complexity?</p>
 
 <p>If you want to attend this course, please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link">fill in this form</a> before September 21st. Seats are assigned on a first-come-first-serve basis and limited to 30 students. Do not forget to also register in the <a href="https://idagreen.uzh.ch/mb/">UZH module booking system</a> before October 13th, whereas ETH students first need to <a href="http://www.uzh.ch/de/studies/application/mobilitaet/applyhsuma.html">register here</a> before September 15th, choosing "Wirtschaftswissenschaftl. Fakultät" and "MA UZH Wirtschaftswissenschaften". For ETH students, credits will automatically be transferred to the ETH booking system once the semester is over.</p>
 
-<p>Teams of two will be formed during the first lecture on September 22nd. The course takes place on Fridays from 14:00 to 16:00 at KOL-F-123, in the main building of University of Zurich. In case you have questions, feel free to get in touch with me by writing to luzius@meissereconomics.com .</p>
+<p>Teams of two will be formed during the first lecture on September 22nd. The course takes place on Fridays from 14:15 to 15:45 at KOL-F-123, in the main building of University of Zurich. In case you have questions, feel free to get in touch with me by writing to luzius@meissereconomics.com .</p>
 
 <p><center><a href="https://docs.google.com/forms/d/e/1FAIpQLSfiUZGNaYk8NIR_RWXHa7f5W4S-vUUTmfpFBs0hOOgmZ22x-w/viewform?usp=sf_link" class="button button-style1">Register Now</a></center></p>
 
