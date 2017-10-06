@@ -20,6 +20,10 @@ permalink: /course/
 
 <p>Here are the <a href="/assets/abfe-lesson2.pdf">slides of the second lesson</a>, as well as <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise02-task.md">exercise 2</a>. This time, we will try to find out whether the agents can do better by teaming up and coordinating their efforts through an open market.</p>
 
+<b>Lesson 3: Money</b>
+
+<p>Here are the <a href="/assets/abfe-lesson3.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise03-task.md">exercise 3</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
+
 <b>Recurring Themes</b>
 
 <p>Emergence: how do the micro-properties of a system shape its macro-characteristics? When is the whole more than the sum of its parts?
