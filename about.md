@@ -9,4 +9,4 @@ permalink: /about/
 
 <p>Isaac Asimov's <a href="https://en.wikipedia.org/wiki/Foundation_series">Foundation Trilogy</a> inspired me with the vision of building large scale economic simulations early on in my life. This long-term project aims at pursuing this vision. I strongly believe that coming from computer science, there are many low-hanging fruits to be picked in economics -- similar to the progress that has been made by mathematicians and physicists entering the field earlier. In particular, methods and tools from modern software engineering are well-suited to manage the organizational and technical complexity of building large-scale models.</p>
 
-<p>Follow me on <a href="https://refind.com/Luzius">refind</a> to discover what news I find relevant in the web.</p>
+<p>Follow me on <a href="https://refind.com/Luzius?invite=EVYnDA8FMD">refind</a> to discover what news I find relevant in the web.</p>
