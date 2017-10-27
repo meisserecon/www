@@ -32,7 +32,7 @@ permalink: /course/
 
 <p>To depart from the feudalistic world of the previous exercise, we introduce a stock market, allowing everyone to become a capitalist, resulting in a much more equal distribution of wealth and to invest retirement savings actively. To have a functioning stock market, a new firm type market maker is introduced, which acts as a counterparty when consumers buy or sell stocks. Besides the <a href="/assets/abfe-lesson5.pdf">lesson 5 slides</a>, I have uploaded a <a href="/assets/abfe-lesson5-bancor.pdf">proof behind the bancor formular</a> for your reference. Exercise 5 can be found <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise05-task.md">here</a>.</p>
 
-<b>Lesson 6: Flow</b>
+<b>Lesson 6: Flows</b>
 
 <p>In lesson 6, we take a deeper look at how capital flows influence stock prices. Here are <a href="/assets/abfe-lesson6.pdf">the slides</a>, as well as a <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise06-task.md">link to exercise 6</a>.</p>
 
