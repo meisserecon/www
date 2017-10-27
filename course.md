@@ -34,7 +34,7 @@ permalink: /course/
 
 <b>Lesson 6: Flow</b>
 
-<p>In lesson 6, we take a deeper look at how capital flows influence stock prices. Here are <a href="/assets/abfe-lesson6.pdf">the lesson 6 slides</a>, as well as a a <href="https://github.com/meisser/course/blob/master/exercises/journal/exercise06-task.md">link to exercise 6</a>.</p>
+<p>In lesson 6, we take a deeper look at how capital flows influence stock prices. Here are <a href="/assets/abfe-lesson6.pdf">the slides</a>, as well as a <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise06-task.md">link to exercise 6</a>.</p>
 
 <b>Recurring Themes</b>
 
