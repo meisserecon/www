@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
@@ -31,6 +31,10 @@ permalink: /course/
 <b>Lesson 5: Stocks</b>
 
 <p>To depart from the feudalistic world of the previous exercise, we introduce a stock market, allowing everyone to become a capitalist, resulting in a much more equal distribution of wealth and to invest retirement savings actively. To have a functioning stock market, a new firm type market maker is introduced, which acts as a counterparty when consumers buy or sell stocks. Besides the <a href="/assets/abfe-lesson5.pdf">lesson 5 slides</a>, I have uploaded a <a href="/assets/abfe-lesson5-bancor.pdf">proof behind the bancor formular</a> for your reference. Exercise 5 can be found <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise05-task.md">here</a>.</p>
+
+<b>Lesson 6: Flow</b>
+
+<p>In lesson 6, we discuss take a deeper look at how capital flows influence stock prices. TODO (will be completed soon, have to go for lunch :) ) <a href="/assets/abfe-lesson6.pdf">lesson 6 slides</a>, I have uploaded a <a href="/assets/abfe-lesson5-bancor.pdf">proof behind the bancor formular</a> for your reference. Exercise 6 can be found <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise06-task.md">here</a>.</p>
 
 <b>Recurring Themes</b>
 
