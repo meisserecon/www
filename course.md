@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
@@ -34,7 +34,7 @@ permalink: /course/
 
 <b>Lesson 6: Flow</b>
 
-<p>In lesson 6, we discuss take a deeper look at how capital flows influence stock prices. TODO (will be completed soon, have to go for lunch :) ) <a href="/assets/abfe-lesson6.pdf">lesson 6 slides</a>, I have uploaded a <a href="/assets/abfe-lesson5-bancor.pdf">proof behind the bancor formular</a> for your reference. Exercise 6 can be found <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise06-task.md">here</a>.</p>
+<p>In lesson 6, we take a deeper look at how capital flows influence stock prices. Here are <a href="/assets/abfe-lesson6.pdf">the lesson 6 slides</a>, as well as a a <href="https://github.com/meisser/course/blob/master/exercises/journal/exercise06-task.md">link to exercise 6</a>.</p>
 
 <b>Recurring Themes</b>
 
