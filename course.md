@@ -40,6 +40,11 @@ permalink: /course/
 
 <p>Lesson 7 is on measuring equality and discusses the World3 model by the Club of Rome. Here are <a href="/assets/abfe-lesson7.pdf">the slides</a> and the <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise07-task.md">exercise</a>.</p>
 
+<b>Lesson 8: Testing</b>
+
+<p>Lesson 8 is about unit tests and test driven development, using the example of market making. It is easy to test whether market making is done well, but it is hard to actually come up with a good market making strategy, making this problem well-suited for testing. Here are <a href="/assets/abfe-lesson8.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise08-task.md">exercise</a>.</p>
+
+
 <b>Recurring Themes</b>
 
 <p>Emergence: how do the micro-properties of a system shape its macro-characteristics? When is the whole more than the sum of its parts?
