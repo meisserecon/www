@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
@@ -44,6 +44,9 @@ permalink: /course/
 
 <p>Lesson 8 is about unit tests and test driven development, using the example of market making. It is easy to test whether market making is done well, but it is hard to actually come up with a good market making strategy, making this problem well-suited for testing. Here are <a href="/assets/abfe-lesson8.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise08-task.md">exercise</a>.</p>
 
+<b>Lesson 9: Capital</b>
+
+<p>In lesson 9, we extend the model to capital by making land tradable and producible. A newly introduced agent RealEstateAgent does not only act as a market maker for land, but also has a production function to convert man-hours into land (think of land development, deforestation, building roads, etc.). However, this production function has "a memory" and is shared among all real estate agents. Thus, it gets increasingly harder to develop new land, depending on how much land has already been produced. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a>, some <a href="/assets/heuristics-presentation.pdf">auxiliary slides on the farm's production decision</a>, and the <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise09-task.md">final exercise</a>.</p>
 
 <b>Recurring Themes</b>
 
