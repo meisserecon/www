@@ -46,7 +46,13 @@ permalink: /course/
 
 <b>Lesson 9: Capital</b>
 
-<p>In lesson 9, we extend the model to capital by making land tradable and producible. A newly introduced agent RealEstateAgent does not only act as a market maker for land, but also has a production function to convert man-hours into land (think of land development, deforestation, building roads, etc.). However, this production function has "a memory" and is shared among all real estate agents. Thus, it gets increasingly harder to develop new land, depending on how much land has already been produced. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a>, some <a href="/assets/heuristics-presentation.pdf">auxiliary slides on the farm's production decision</a>, and the <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise09-task.md">final exercise</a>.</p>
+<p>In lesson 9, we extend the model to capital by making land tradable and producible. A newly introduced agent RealEstateAgent does not only act as a market maker for land, but also has a production function to convert man-hours into land (think of land development, deforestation, building roads, etc.). However, this production function has "a memory" and is shared among all real estate agents. Thus, it gets increasingly harder to develop new land, depending on how much land has already been produced. Here are <a href="/assets/overfishing.xlsx">the slides</a>, some <a href="/assets/heuristics-presentation.pdf">auxiliary slides on the farm's production decision</a>, and <a href="/assets/abfe-lesson9.pdf">excel sheet for the overfishing example</a>, and the description <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise09-task.md">task for the final presentation</a>.</p>
+
+<b>Lesson 10: Leverage</b>
+
+<p>In lesson 10, we discuss how leverage can affect stock market returns using the paper <a href="https://arxiv.org/abs/0908.1555">Leverage Causes Fat Tails and Clustered Volatility</a> by Thurner et al.. However, we won't add leverage to our simulation as it is complex enough already. Here are the <a href="/assets/abfe-lesson10.pdf">slides</a>, and some <a href="/assets/abfe-lesson10-leverage.pdf">auxiliary slides</a>.</p>
+
+abfe-lesson10-jupyter
 
 <b>Recurring Themes</b>
 
