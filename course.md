@@ -52,6 +52,10 @@ permalink: /course/
 
 <p>In lesson 10, we discuss how leverage can affect stock market returns using the paper <a href="https://arxiv.org/abs/0908.1555">Leverage Causes Fat Tails and Clustered Volatility</a> by Thurner et al.. However, we won't add leverage to our simulation as it is complex enough already. Here are the <a href="/assets/abfe-lesson10.pdf">slides</a>, and some <a href="/assets/abfe-lesson10-leverage.pdf">auxiliary slides</a>.</p>
 
+<b>Lesson 11: Learning</b>
+
+<p>In lesson 11, we discuss different learning methods as well as the Santa Fe artifical stock market (<a href="/assets/abfe-lesson11.pdf">slides</a>). Furthermore, we look at the state of the competitive simulation and discuss how to improve your agents.</p>
+
 <b>Recurring Themes</b>
 
 <p>Emergence: how do the micro-properties of a system shape its macro-characteristics? When is the whole more than the sum of its parts?
