@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
@@ -55,6 +55,12 @@ permalink: /course/
 <b>Lesson 11: Learning</b>
 
 <p>In lesson 11, we discuss different learning methods as well as the Santa Fe artifical stock market (<a href="/assets/abfe-lesson11.pdf">slides</a>). Furthermore, we look at the state of the competitive simulation and discuss how to improve your agents.</p>
+
+<b>Lesson 12: Student Presentations</b>
+
+<b>Lesson 13: Student Presentations</b>
+
+<p>In lesson 13, we discussed the results, with auxiliary slides that can be <a href="/assets/abfe-lesson13.pdf">found here</a>.</p>
 
 <b>Recurring Themes</b>
 
