@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Agent-Based Financial Economics
 permalink: /course/
@@ -12,6 +12,7 @@ permalink: /course/
 
 <p>As a computer science student, you will get to learn the basic mechanisms of our economy and the financial markets, while applying your software engineering skills. As a economics or finance student, you will get a new, constructive perspective on economics and learn how to structure large-scale simulations in object-oriented programming.</p>
 
+<!--
 <b>Lesson 1: The Hermit</b>
 
 <p>Here are the <a href="/assets/abfe-lesson1.pdf">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
@@ -61,6 +62,8 @@ permalink: /course/
 <b>Lesson 13: Student Presentations</b>
 
 <p>In lesson 13, we discussed the results, with auxiliary slides that can be <a href="/assets/abfe-lesson13.pdf">found here</a>.</p>
+
+-->
 
 <b>Recurring Themes</b>
 
