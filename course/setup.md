@@ -22,7 +22,7 @@ permalink: /course/setup
 
 <p>Install the latest version of <a href="http://www.eclipse.org/downloads/">eclipse</a>, choose "Eclipse IDE for Java Developers" when asked.</p>
 
-<p><a href="/course/eclipse-setup-jdk-1.jpg"><img src="/course/eclipse-setup-jdk-1.jpg" alt="" class="image full"></a>After having installed and started eclipse, make sure it points to the latest Java JDK. If it did not detect the JDK automatically, you need to add it manually.</p>
+<p><a href="/course/eclipse-setup-jdk-1.jpg"><img src="/course/eclipse-setup-jdk-1.jpg" alt="" class="image full"></a>After having installed and started eclipse, make sure it points to version 8 of the Java JDK (not JRE). If it did not detect the JDK automatically, you need to add it manually.</p>
 
 <p><a href="/course/eclipse-setup-jdk-2.jpg"><img src="/course/eclipse-setup-jdk-2.jpg" alt="" class="image full"></a>In the JDK settings, you should add the "-ea" flag. This enables assertions by default, making the simulations fail faster on errors, thereby making it easier to detect them. (The fail fast principle.)</p>
 
