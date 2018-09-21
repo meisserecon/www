@@ -8,7 +8,7 @@ permalink: /course/setup
 
 <p><a href="/course/overview.png"><img src="/course/overview.png" alt="" class="image full"></a>This sketch gives you a general idea of the overall setup. In the following, I describe how to install all the software needed to successfully synchronize your code.</p>
 
-<p>Install the <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html">Java 8 Development Kit</a>. Note that the JRE which users sometimes already have installed is not enough. The difference between the JRE and the JDK is that the JRE lets you run Java programs, while the JDK comes with a compiler and lots of documentation for programmers, allowing you to create Java programs. Also note that the simulation is not compatible with Java 9 yet, which was released after the course has started.</a>
+<p>Install the <a href=http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html?">Java 10 Development Kit</a>. Note that the JRE which users sometimes already have installed is not enough. The difference between the JRE and the JDK is that the JRE lets you run Java programs, while the JDK comes with a compiler and lots of documentation for programmers, allowing you to create Java programs. Also note that the simulation is not compatible with Java 10 yet, which was released after the course has started.</a>
 
 <p>Install <a href="sourcetreeapp.com">Source Tree</a>. If you have a Google account, you can authenticate with that one. When asked for connecting with a Git account, provide your Github account and clone your team repository (e.g. "team003"). You can also clone your repository manually after the installation completed. The repository URL looks like https://github.com/meisser/team000.git, depending on your team number. If you cannot access this URL with a web browser, try to login at github.com and visit the page again. If that does not work, something went wrong and you should contact me.</p>
 
@@ -20,7 +20,7 @@ permalink: /course/setup
 
 <p>To check whether your changes have been properly uploaded, you can browse your repository in the web. Once the changes are there, the simulation server will pick them up and update the simulation.</p>
 
-<p>Install the latest version of <a href="http://www.eclipse.org/downloads/">eclipse</a>.</p>
+<p>Install the latest version of <a href="http://www.eclipse.org/downloads/">eclipse</a>, choose "Eclipse IDE for Java Developers" when asked.</p>
 
 <p><a href="/course/eclipse-setup-jdk-1.jpg"><img src="/course/eclipse-setup-jdk-1.jpg" alt="" class="image full"></a>After having installed and started eclipse, make sure it points to the latest Java JDK. If it did not detect the JDK automatically, you need to add it manually.</p>
 
