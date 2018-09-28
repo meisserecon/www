@@ -16,38 +16,39 @@ permalink: /course/
 
 <p>Here are the <a href="/assets/abfe-lesson1.pdf">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
 
-<!--
 <b>Lesson 2: The Farmer</b>
 
-<p>Here are the <a href="/assets/abfe-lesson2.pdf">slides of the second lesson</a>, as well as <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise02-task.md">exercise 2</a>. This time, we will try to find out whether the agents can do better by teaming up and coordinating their efforts through an open market.</p>
+<p>Here are the <a href="/assets/abfe-lesson2.pdf">slides of the second lesson</a>, as well as <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise02-task.md">exercise 2</a>. This time, we will try to find out whether the agents can do better by teaming up and coordinating their efforts through an open market.</p>
+
+<!--
 
 <b>Lesson 3: Money</b>
 
-<p>Here are the <a href="/assets/abfe-lesson3.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise03-task.md">exercise 3</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
+<p>Here are the <a href="/assets/abfe-lesson3.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise03-task.md">exercise 3</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
 
 <b>Lesson 4: Growth</b>
 
-<p>In lesson 4, the model will be extended to growth by introducing births and a maximum age. Besides the <a href="/assets/abfe-lesson4.pdf">standard slides</a>, we will discuss <a href="/assets/abfe-lesson4-agile.pdf">the role of agile software development</a> in agent-based modelling. Exercise 4 can be found <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise04-task.md">here</a>.</p>
+<p>In lesson 4, the model will be extended to growth by introducing births and a maximum age. Besides the <a href="/assets/abfe-lesson4.pdf">standard slides</a>, we will discuss <a href="/assets/abfe-lesson4-agile.pdf">the role of agile software development</a> in agent-based modelling. Exercise 4 can be found <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise04-task.md">here</a>.</p>
 
 <b>Lesson 5: Stocks</b>
 
-<p>To depart from the feudalistic world of the previous exercise, we introduce a stock market, allowing everyone to become a capitalist, resulting in a much more equal distribution of wealth and to invest retirement savings actively. To have a functioning stock market, a new firm type market maker is introduced, which acts as a counterparty when consumers buy or sell stocks. Besides the <a href="/assets/abfe-lesson5.pdf">lesson 5 slides</a>, I have uploaded a <a href="/assets/abfe-lesson5-bancor.pdf">proof behind the bancor formular</a> for your reference. Exercise 5 can be found <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise05-task.md">here</a>.</p>
+<p>To depart from the feudalistic world of the previous exercise, we introduce a stock market, allowing everyone to become a capitalist, resulting in a much more equal distribution of wealth and to invest retirement savings actively. To have a functioning stock market, a new firm type market maker is introduced, which acts as a counterparty when consumers buy or sell stocks. Besides the <a href="/assets/abfe-lesson5.pdf">lesson 5 slides</a>, I have uploaded a <a href="/assets/abfe-lesson5-bancor.pdf">proof behind the bancor formular</a> for your reference. Exercise 5 can be found <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise05-task.md">here</a>.</p>
 
 <b>Lesson 6: Flows</b>
 
-<p>In lesson 6, we take a deeper look at how capital flows influence stock prices. Here are <a href="/assets/abfe-lesson6.pdf">the slides</a>, as well as a <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise06-task.md">link to exercise 6</a>.</p>
+<p>In lesson 6, we take a deeper look at how capital flows influence stock prices. Here are <a href="/assets/abfe-lesson6.pdf">the slides</a>, as well as a <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise06-task.md">link to exercise 6</a>.</p>
 
 <b>Lesson 7: Equality</b>
 
-<p>Lesson 7 is on measuring equality and discusses the World3 model by the Club of Rome. Here are <a href="/assets/abfe-lesson7.pdf">the slides</a> and the <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise07-task.md">exercise</a>.</p>
+<p>Lesson 7 is on measuring equality and discusses the World3 model by the Club of Rome. Here are <a href="/assets/abfe-lesson7.pdf">the slides</a> and the <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise07-task.md">exercise</a>.</p>
 
 <b>Lesson 8: Testing</b>
 
-<p>Lesson 8 is about unit tests and test driven development, using the example of market making. It is easy to test whether market making is done well, but it is hard to actually come up with a good market making strategy, making this problem well-suited for testing. Here are <a href="/assets/abfe-lesson8.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise08-task.md">exercise</a>.</p>
+<p>Lesson 8 is about unit tests and test driven development, using the example of market making. It is easy to test whether market making is done well, but it is hard to actually come up with a good market making strategy, making this problem well-suited for testing. Here are <a href="/assets/abfe-lesson8.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise08-task.md">exercise</a>.</p>
 
 <b>Lesson 9: Capital</b>
 
-<p>In lesson 9, we extend the model to capital by making land tradable and producible. A newly introduced agent RealEstateAgent does not only act as a market maker for land, but also has a production function to convert man-hours into land (think of land development, deforestation, building roads, etc.). However, this production function has "a memory" and is shared among all real estate agents. Thus, it gets increasingly harder to develop new land, depending on how much land has already been produced. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a>, some <a href="/assets/heuristics-presentation.pdf">auxiliary slides on the farm's production decision</a>, and <a href="/assets/overfishing.xlsx">excel sheet for the overfishing example</a>, and the description <a href="https://github.com/meisser/course/blob/master/exercises/journal/exercise09-task.md">task for the final presentation</a>.</p>
+<p>In lesson 9, we extend the model to capital by making land tradable and producible. A newly introduced agent RealEstateAgent does not only act as a market maker for land, but also has a production function to convert man-hours into land (think of land development, deforestation, building roads, etc.). However, this production function has "a memory" and is shared among all real estate agents. Thus, it gets increasingly harder to develop new land, depending on how much land has already been produced. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a>, some <a href="/assets/heuristics-presentation.pdf">auxiliary slides on the farm's production decision</a>, and <a href="/assets/overfishing.xlsx">excel sheet for the overfishing example</a>, and the description <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise09-task.md">task for the final presentation</a>.</p>
 
 <b>Lesson 10: Leverage</b>
 
