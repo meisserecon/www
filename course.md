@@ -24,11 +24,11 @@ permalink: /course/
 
 <p>Here are the <a href="/assets/abfe-lesson3.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise03-task.md">exercise 3</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
 
-<!--
-
 <b>Lesson 4: Growth</b>
 
 <p>In lesson 4, the model will be extended to growth by introducing births and a maximum age. Besides the <a href="/assets/abfe-lesson4.pdf">standard slides</a>, we will discuss <a href="/assets/abfe-lesson4-agile.pdf">the role of agile software development</a> in agent-based modelling. Exercise 4 can be found <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise04-task.md">here</a>.</p>
+
+<!--
 
 <b>Lesson 5: Stocks</b>
 
