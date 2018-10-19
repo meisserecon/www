@@ -28,11 +28,11 @@ permalink: /course/
 
 <p>In lesson 4, the model will be extended to growth by introducing births and a maximum age. Besides the <a href="/assets/abfe-lesson4.pdf">standard slides</a>, we will discuss <a href="/assets/abfe-lesson4-agile.pdf">the role of agile software development</a> in agent-based modelling. Exercise 4 can be found <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise04-task.md">here</a>.</p>
 
-<!--
-
 <b>Lesson 5: Stocks</b>
 
 <p>To depart from the feudalistic world of the previous exercise, we introduce a stock market, allowing everyone to become a capitalist, resulting in a much more equal distribution of wealth and to invest retirement savings actively. To have a functioning stock market, a new firm type market maker is introduced, which acts as a counterparty when consumers buy or sell stocks. Besides the <a href="/assets/abfe-lesson5.pdf">lesson 5 slides</a>, I have uploaded a <a href="/assets/abfe-lesson5-bancor.pdf">proof behind the bancor formular</a> for your reference. Exercise 5 can be found <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise05-task.md">here</a>.</p>
+
+<!--
 
 <b>Lesson 6: Flows</b>
 
