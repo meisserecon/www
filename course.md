@@ -36,11 +36,11 @@ permalink: /course/
 
 <p>In lesson 6, we take a deeper look at how capital flows influence stock prices. Here are <a href="/assets/abfe-lesson6.pdf">the slides</a>, as well as a <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise06-task.md">link to exercise 6</a>.</p>
 
-<!--
-
 <b>Lesson 7: Equality</b>
 
 <p>Lesson 7 is on measuring equality and discusses the World3 model by the Club of Rome. Here are <a href="/assets/abfe-lesson7.pdf">the slides</a> and the <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise07-task.md">exercise</a>.</p>
+
+<!--
 
 <b>Lesson 8: Testing</b>
 
