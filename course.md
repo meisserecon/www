@@ -40,11 +40,11 @@ permalink: /course/
 
 <p>Lesson 7 is on measuring equality and discusses the World3 model by the Club of Rome. Here are <a href="/assets/abfe-lesson7.pdf">the slides</a> and the <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise07-task.md">exercise</a>.</p>
 
+<b>Lesson 8: Market Making</b>
+
+<p>Lesson 8 goes deeper into the market microstructure and how prices are formed. For that, we are having a look at Cars Hommes' experiments with real humans as agents. Also, we'll have a deeper look at the problem of market making. Here are <a href="/assets/abfe-lesson8.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise08-task.md">exercise</a>.</p>
+
 <!--
-
-<b>Lesson 8: Testing</b>
-
-<p>Lesson 8 is about unit tests and test driven development, using the example of market making. It is easy to test whether market making is done well, but it is hard to actually come up with a good market making strategy, making this problem well-suited for testing. Here are <a href="/assets/abfe-lesson8.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise08-task.md">exercise</a>.</p>
 
 <b>Lesson 9: Capital</b>
 
