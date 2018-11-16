@@ -46,7 +46,7 @@ permalink: /course/
 
 <b>Lesson 9: Investment Funds</b>
 
-<p>In this lesson, investment funds are introduced and the effects of leverage discussed. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise09-task.md">exercise</a>.</p>
+<p>In this lesson, investment funds are introduced and the effects of leverage discussed. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise09-task.md">exercise</a>. The competitive simulation can be <a href="http://meissereconomics.com/vis/simulation?sim=ex9-fund">viewed here</a>.</p>
 
 <!--
 
