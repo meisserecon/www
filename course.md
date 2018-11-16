@@ -44,6 +44,10 @@ permalink: /course/
 
 <p>Lesson 8 goes deeper into the market microstructure and how prices are formed. For that, we are having a look at Cars Hommes' experiments with real humans as agents. Also, we'll have a deeper look at the problem of market making. Here are <a href="/assets/abfe-lesson8.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise08-task.md">exercise</a>.</p>
 
+<b>Lesson 9: Investment Funds</b>
+
+<p>In this lesson, investment funds are introduced and the effects of leverage discussed. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise09-task.md">exercise</a>.</p>
+
 <!--
 
 <b>Lesson 9: Capital</b>
