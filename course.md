@@ -48,6 +48,11 @@ permalink: /course/
 
 <p>In this lesson, investment funds are introduced and the effects of leverage discussed. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a> and the accompanying <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise09-task.md">exercise</a>. The competitive simulation can be <a href="http://meissereconomics.com/vis/simulation?sim=ex9-fund">viewed here</a>.</p>
 
+<b>Lesson 10: Learning</b>
+
+<p>In lesson 11, we discuss different learning methods as well as the Santa Fe artifical stock market (<a href="/assets/abfe-lesson10.pdf">slides</a>). Furthermore, we look at the state of the competitive simulation.</p>
+
+
 <!--
 
 <b>Lesson 9: Capital</b>
