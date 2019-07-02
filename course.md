@@ -12,6 +12,8 @@ permalink: /course/
 
 <p>As a computer science student, you will get to learn the basic mechanisms of our economy and the financial markets, while applying your software engineering skills. As a economics or finance student, you will get a new, constructive perspective on economics and learn how to structure large-scale simulations in object-oriented programming.</p>
 
+<!--
+
 <b>Lesson 1: The Hermit</b>
 
 <p>Here are the <a href="/assets/abfe-lesson1.pdf">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
@@ -52,26 +54,6 @@ permalink: /course/
 
 <p>In lesson 11, we discuss different learning methods as well as the Santa Fe artifical stock market (<a href="/assets/abfe-lesson10.pdf">slides</a>). Furthermore, we look at the state of the competitive simulation.</p>
 
-
-<!--
-
-<b>Lesson 9: Capital</b>
-
-<p>In lesson 9, we extend the model to capital by making land tradable and producible. A newly introduced agent RealEstateAgent does not only act as a market maker for land, but also has a production function to convert man-hours into land (think of land development, deforestation, building roads, etc.). However, this production function has "a memory" and is shared among all real estate agents. Thus, it gets increasingly harder to develop new land, depending on how much land has already been produced. Here are <a href="/assets/abfe-lesson9.pdf">the slides</a>, some <a href="/assets/heuristics-presentation.pdf">auxiliary slides on the farm's production decision</a>, and <a href="/assets/overfishing.xlsx">excel sheet for the overfishing example</a>, and the description <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise09-task.md">task for the final presentation</a>.</p>
-
-<b>Lesson 10: Leverage</b>
-
-<p>In lesson 10, we discuss how leverage can affect stock market returns using the paper <a href="https://arxiv.org/abs/0908.1555">Leverage Causes Fat Tails and Clustered Volatility</a> by Thurner et al.. However, we won't add leverage to our simulation as it is complex enough already. Here are the <a href="/assets/abfe-lesson10.pdf">slides</a>, and some <a href="/assets/abfe-lesson10-leverage.pdf">auxiliary slides</a>.</p>
-
-<b>Lesson 11: Learning</b>
-
-<p>In lesson 11, we discuss different learning methods as well as the Santa Fe artifical stock market (<a href="/assets/abfe-lesson11.pdf">slides</a>). Furthermore, we look at the state of the competitive simulation and discuss how to improve your agents.</p>
-
-<b>Lesson 12: Student Presentations</b>
-
-<b>Lesson 13: Student Presentations</b>
-
-<p>In lesson 13, we discussed the results, with auxiliary slides that can be <a href="/assets/abfe-lesson13.pdf">found here</a>.</p>
 
 -->
 
