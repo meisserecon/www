@@ -28,6 +28,6 @@ permalink: /course/setup
 <a href="/course/eclipse-setup-import-1.jpg"><img src="/course/eclipse-setup-import-1.jpg" alt="" class="image full">
 <p><a href="/course/eclipse-setup-import-2.jpg"><img src="/course/eclipse-setup-import-2.jpg" alt="" class="image full"></a>Import the four agent-based simulation projects as shown above.</p>
 
-<p>Congratulations, you are ready to run your first simulation locally! You can no proceed to <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise01-task.md">exercise 1</a>.</p>
+<p>Congratulations, you are ready to start with <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise01-task.md">exercise 1</a>.</p>
 
 
