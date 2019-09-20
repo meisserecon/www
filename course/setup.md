@@ -23,13 +23,13 @@ permalink: /course/setup
 
 <p>Install the latest version of <a href="https://www.eclipse.org/downloads/">eclipse</a>, choose "Eclipse IDE for Java Developers" when asked.</p>
 
-<p><a href="/course/eclipse-setup-jdk-1.jpg"><img src="/course/eclipse-setup-jdk-1.jpg" alt="" class="image full"></a>After having installed and started eclipse, make sure it points to version 8 of the Java JDK (not JRE). If it did not detect the JDK automatically, you need to add it manually.</p>
-
 <p><a href="/course/eclipse-setup-jdk-2.jpg"><img src="/course/eclipse-setup-jdk-2.jpg" alt="" class="image full"></a>In the JDK settings, you should add the "-ea" flag. This enables assertions by default, making the simulations fail faster on errors, thereby making it easier to detect them. (The fail fast principle.)</p>
 
 <a href="/course/eclipse-setup-import-1.jpg"><img src="/course/eclipse-setup-import-1.jpg" alt="" class="image full">
 <p><a href="/course/eclipse-setup-import-2.jpg"><img src="/course/eclipse-setup-import-2.jpg" alt="" class="image full"></a>Import the four agent-based simulation projects as shown above.</p>
 
-<p>Congratulations, you are ready to run your first simulation locally! This will be explained in a separate document that does not exist yet. :)</p>
+<p>Congratulations, you are ready to start with <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise01-task.md">exercise 1</a>.</p>
+
+<p><a href="/course/eclipse-run.jpg"><img src="/course/eclipse-run.jpg" alt="" class="image full"></a>To run a class, right-click on it and choose "run as Java application".</p>
 
 
