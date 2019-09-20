@@ -30,4 +30,6 @@ permalink: /course/setup
 
 <p>Congratulations, you are ready to start with <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise01-task.md">exercise 1</a>.</p>
 
+<p><a href="/course/eclipse-run.jpg"><img src="/course/eclipse-run.jpg" alt="" class="image full"></a>To run a class, right-click on it and choose "run as Java application".</p>
+
 
