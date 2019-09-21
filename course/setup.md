@@ -4,6 +4,14 @@ title: Setting up your agent laboratory
 permalink: /course/setup
 ---
 
+<p>Note: this page is not up to date any more. See the notes I sent out by e-mail, namely:
+  
+  1. I tried out an alternative Git client. There are some pitfalls and hiccups when connecting SourceTree to github (this used to work much smoother in earlier versions). Instead, I recommend to work with https://desktop.github.com , which seems much more intuitive.
+2. You do not need to connect to upstream any more. Instead, I will push the exercises each weak into your repository. That simplifies things for you a little. I already pushed the simulation code and the first exercise in each of your repositories.
+3. I'll see how well visual studio code works with the simulation. Visual studio is a little lighter and easier to handle than eclipse, but I'm not sure yet if everything works well with it. I'll provide an update sometime next week.
+
+</p>
+
 <p>To take part in this course, you'll need to install a number of programs. They are all free to use.</p>
 
 <p><a href="/course/overview.png"><img src="/course/overview.png" alt="" class="image full"></a>This sketch gives you a general idea of the overall setup. In the following, I describe how to install all the software needed to successfully synchronize your code.</p>
