@@ -14,11 +14,15 @@ permalink: /course/
 
 <b>Lesson 1: The Hermit</b>
 
-<p>Here are the <a href="/assets/abfe-lesson1.pdf">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
+<p>Here are the <a href="/assets/abfe-lesson1.pdf">slides of the first lesson</a>. Please follow <a href="/course/setup">these instruction</a> on how to install the required software on you computer in order to solve <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise01-task.md">the first exercise</a>.</p>
 
 <b>Lesson 2: Programming</b>
 
 <p>In this lesson, we are making sure the simulation environment is properly setup for everyone and provide some programming basics so everyone is equipped with the tools and knowledge to solve the first exercise. (<a href="/assets/abfe-lesson2-2019.pdf">slides</a>)</p>
+
+<b>Lesson 3: Monetary Economy</b>
+
+<p>Here are the <a href="/assets/abfe-lesson3-2019.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise02-task.md">exercise w</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
 
 <!--
 
