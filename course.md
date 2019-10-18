@@ -22,7 +22,7 @@ permalink: /course/
 
 <b>Lesson 3: Monetary Economy</b>
 
-<p>Here are the <a href="/assets/abfe-lesson3-2019.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise02-task.md">exercise w</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
+<p>Here are the <a href="/assets/abfe-lesson3-2019.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise02-task.md">exercise 2</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
 
 <b>Lesson 4: Adaptive Behavior</b>
 
