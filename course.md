@@ -24,15 +24,11 @@ permalink: /course/
 
 <p>Here are the <a href="/assets/abfe-lesson3-2019.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise02-task.md">exercise w</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
 
+<b>Lesson 4: Adaptive Behavior</b>
+
+<p>In lesson 4, we look at how methods from <a href="/assets/abfe-lesson4-agile.pdf">agile software engineering</a> can help with agent-based modeling. The slides discussing the previous exercise can be found <a href="/assets/abfe-lesson4.pdf">here</a>. Exercise 4 can be found <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise03-task.md">here</a> and the online simulation <a href="http://meissereconomics.com/vis/simulation?sim=ex3-adaptive">here</a>.</p>
+
 <!--
-
-<b>Lesson 2: The Farmer</b>
-
-<p>Here are the <a href="/assets/abfe-lesson2.pdf">slides of the second lesson</a>, as well as <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise02-task.md">exercise 2</a>. This time, we will try to find out whether the agents can do better by teaming up and coordinating their efforts through an open market.</p>
-
-<b>Lesson 3: Money</b>
-
-<p>Here are the <a href="/assets/abfe-lesson3.pdf">slides of the third lesson</a>, as well as <a href="https://github.com/meisser/course2018/blob/master/exercises/journal/exercise03-task.md">exercise 3</a>. This time, we will experiment with money supply and see what effect printing and distributing money has on the simulation.</p>
 
 <b>Lesson 4: Growth</b>
 
