@@ -26,7 +26,7 @@ permalink: /course/
 
 <b>Lesson 4: Adaptive Behavior</b>
 
-<p>In lesson 4, we look at how methods from <a href="/assets/abfe-lesson4-agile.pdf">agile software engineering</a> can help with agent-based modeling. The slides discussing the previous exercise can be found <a href="/assets/abfe-lesson4.pdf">here</a>. Exercise 4 can be found <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise03-task.md">here</a> and the online simulation <a href="http://meissereconomics.com/vis/simulation?sim=ex3-adaptive">here</a>.</p>
+<p>In lesson 4, we look at how methods from <a href="/assets/abfe-lesson4-agile.pdf">agile software engineering</a> can help with agent-based modeling. The slides discussing the previous exercise can be found <a href="/assets/abfe-lesson4-2019.pdf">here</a>. Exercise 4 can be found <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise03-task.md">here</a> and the online simulation <a href="http://meissereconomics.com/vis/simulation?sim=ex3-adaptive">here</a>.</p>
 
 <!--
 
