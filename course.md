@@ -28,6 +28,10 @@ permalink: /course/
 
 <p>In lesson 4, we look at how methods from <a href="/assets/abfe-lesson4-agile.pdf">agile software engineering</a> can help with agent-based modeling. The slides discussing the previous exercise can be found <a href="/assets/abfe-lesson4-2019.pdf">here</a>. Exercise 4 can be found <a href="https://github.com/meisser/course2019/blob/master/exercises/journal/exercise03-task.md">here</a> and the online simulation <a href="http://meissereconomics.com/vis/simulation?sim=ex3-adaptive">here</a>.</p>
 
+<b>Lesson 5: Demographics</b>
+
+<p>In lesson 5, we have a look at the World3 model and discuss the previous and next exercise. (<a href="/assets/abfe-lesson5-2019.pdf">slides</a>).</p>
+
 <!--
 
 <b>Lesson 4: Growth</b>
