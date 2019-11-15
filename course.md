@@ -32,6 +32,18 @@ permalink: /course/
 
 <p>In lesson 5, we have a look at the World3 model and discuss the previous and next exercise. (<a href="/assets/abfe-lesson5-2019.pdf">slides</a>).</p>
 
+<b>Lesson 6: Stocks</b>
+
+<p><a href="/assets/abfe-lesson6-2019.pdf">slides</a>.</p>
+
+<b>Lesson 7: Market Making</b>
+
+<p><a href="/assets/abfe-lesson7-2019.pdf">slides</a>.</p>
+
+<b>Lesson 8: Leverage</b>
+
+<p>In lesson 8, we have a look at a well-known leverage model (<a href="/assets/abfe-lesson8-2019.pdf">slides</a>) using a Jupyter notebook. Furtheremore, here is the <a href="/assets/abfe-template.pptx">template</a> for the final presentations.</p>
+
 <!--
 
 <b>Lesson 4: Growth</b>
