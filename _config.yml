@@ -9,14 +9,7 @@
 title: Meisser Economics
 email: luzius@meissereconomics.com
 name: Meisser Economics
-description: > # this means to ignore newlines until "baseurl:"
-  Meisser Economics is a boutique economic and financial research firm
-  applying methods of modern software engineering to build better economic
-  models. Markets are recognized as interfaces between economic agents,
-  whose behavior is independently specified and simulated. This results in
-  versatile agent-based models that are fundamentally algorithmic, unlike
-  traditional equation-based models that are fundamentally mathematical and
-  monolithic.
+description: Meisser Economics
 gems: [jekyll-paginate,jekyll-feed]
 paginate: 10
 baseurl: "" # the subpath of your site, e.g. /blog
