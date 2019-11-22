@@ -44,6 +44,8 @@ permalink: /course/
 
 <p>In lesson 8, we have a look at a well-known leverage model (<a href="/assets/abfe-lesson8-2019.pdf">slides</a>) using a Jupyter notebook. Furtheremore, here is the <a href="/assets/abfe-template.pptx">template</a> for the final presentations.</p>
 
+<b>Lesson 9: Learning</b>
+<p><a href="/assets/abfe-lesson9-2019.pdf">slides</a>.</p>
 <!--
 
 <b>Lesson 4: Growth</b>
